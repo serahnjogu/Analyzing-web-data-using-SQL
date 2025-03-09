@@ -1,5 +1,2 @@
 ### Analyzing web data using SQL
-**question 1** creating schemas using sql
-```SQL
-CREATE SCHEMA staging;
-``` 
+I used SQL to analyze web data and draw conclusions off it the code is well commented.
